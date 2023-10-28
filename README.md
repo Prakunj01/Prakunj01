@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Prakunj Vishwakarma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right"alt="coding" width="400" src="https://images.app.goo.gl/8PyxCpESsNPrt18D8">
+<img align="right"alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on [Architecture website](https://www.linkedin.com/in/prakunjvishwakarma/)
 
