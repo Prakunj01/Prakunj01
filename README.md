@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋,</h1>
+<h2 align="left">Hey 👋,</h2>
 
 ###
 
-<p align="left">I'm Prakunj Vishwakarma</p>
+<h1 align="left">I'm Prakunj Vishwakarma</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Programming Languages</p>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Frameworks & databases</p>
+<h3 align="left">Frameworks & databases</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Others</p>
+<h3 align="left">Others</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">Social</p>
+<h2 align="left">Social</h2>
 
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prakunjvishwakarma) 
