@@ -75,7 +75,6 @@
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prakunjvishwakarma) 
 
-[![LeetCode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prakunjvishwakarma)
 ###
 
 <div align="center">
