@@ -1,7 +1,6 @@
 <h2 align="left">Hey 👋,</h2>
 
 ###
-###
 <h1 align="left">I'm Prakunj Vishwakarma</h1>
 
 ###
