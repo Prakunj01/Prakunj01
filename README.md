@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🤝Passionate to Contribute🤝<br>👯 I’m always open to collaborate to develop new👯<br>📫 reach me :  prakunjvishwakarma@gmail.com<br>⚡ Used to edit videos(Part time)</p>
+<p align="left">🤝Passionate to Contribute🤝<br>👯 I’m always open to collaborate to develop new👯<br>📫 reach me :  prakunjvish01@gmail.com<br>⚡ Web Developer(MERN & WordPress)</p>
 
 ###
 
