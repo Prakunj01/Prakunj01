@@ -1,5 +1,5 @@
 <h2 align="left">Hey👋,</h2>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/128315/screenshots/1570114/intro-dribble.gif">
+<img align="right" alt="coding" width="400" src="">
 
 <h1 align="left">I'm Prakunj Vishwakarma</h1>
 <!-- <h3 align="left">Passion To Contribute</h3> -->
