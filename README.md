@@ -16,8 +16,7 @@
 <br> <br> 
 # I code with:
 <table><tr>
-<!-- <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif"> -->
-   <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 <td valign="top" width="50%" >
   <h3 align="center">--- Programming -</h3>
 <div align="center">  
