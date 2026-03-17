@@ -4,32 +4,34 @@
 
 <h1 align="left">I'm Prakunj Vishwakarma</h1>
 
-<h3 align="left">Full Stack Developer | MERN | Cloud | DevOps Enthusiast</h3>
+<h3 align="left">Full Stack Developer | DevOps | AWS Cloud</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building scalable web applications  
-- 🌱 Currently learning **Cloud, DevOps and Application Development**  
-- 🧠 Interested in **AI powered systems and modern web architecture**  
-- 🔭 Working on **real-world products and SaaS applications**  
-- 🤝 Open to **collaboration, internships and developer roles**
+- 💻 Full Stack Developer focused on scalable web applications  
+- ☁️ Interested in **Cloud Infrastructure & DevOps**  
+- 🔭 Currently managing **ArTikin application deployment on AWS**  
+- 📊 Working with **monitoring, logging and cloud automation**  
+- 🤝 Open to **internships, collaborations and developer roles**
 
 📫 **Email:** prakunjvish01@gmail.com  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Programming
+## 💻 Programming
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
-### 🎨 Frontend
+---
+
+## 🎨 Frontend
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -37,52 +39,59 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
 </p>
 
-### ⚙ Backend
+---
+
+## ⚙ Backend
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
 </p>
 
-### 🗄 Databases
+---
+
+## 🗄 Databases
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 
-### ☁ Tools & Technologies
-- Git & GitHub  
-- Docker  
-- AWS  
-- REST APIs  
-- Linux  
+---
+
+# ☁ DevOps & Cloud Tools
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📊 Monitoring & Observability
 
-🔹 **BT Traders Platform**  
-Trading course platform with secure video streaming and DRM protection.
+<p>
 
-🔹 **Job Listing Platform**  
-A scalable job board platform where companies can post jobs without requiring job seeker login.
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prometheus.svg" height="40"/>
 
-🔹 **Agentic DevOps Monitoring System**  
-AI-powered system that analyzes container logs and detects system issues automatically.
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grafana.svg" height="40"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prakunjvishwakarma)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Prakunj01&theme=dark&hide_border=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prakunj01&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakunj01&layout=compact&theme=dark)
