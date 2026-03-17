@@ -10,16 +10,16 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on scalable web applications  
-- ☁️ Interested in **Cloud Infrastructure & DevOps**  
-- 🔭 Currently managing **ArTikin application deployment on AWS**  
-- 📊 Working with **monitoring, logging and cloud automation**  
-- 🤝 Open to **internships, collaborations and developer roles**
+🎓 M.Tech in **Agile Software Engineering**  
+🏫 **Maulana Azad National Institute of Technology (MANIT), Bhopal**
+
+💻 Passionate about building scalable applications and cloud infrastructure  
+
+🤖 Working on **AI-powered DevOps monitoring systems**
 
 📫 **Email:** prakunjvish01@gmail.com  
 
 ---
-
 
 <h1 align="center">🛠 Tech Stack</h1>
 
@@ -28,6 +28,7 @@
 <!-- Programming Languages -->
 
 <h2>💻 Programming Languages</h2>
+
 
 <table>
 <tr>
@@ -50,11 +51,9 @@ Python
 </tr>
 </table>
 
-<br>
+---
 
-<!-- Frontend -->
-
-<h2>🎨 Frontend</h2>
+## 🎨 Frontend
 
 <table>
 <tr>
@@ -66,12 +65,12 @@ React
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/><br>
-HTML5
+HTML
 </td>
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/><br>
-CSS3
+CSS
 </td>
 
 <td align="center" width="120">
@@ -82,11 +81,9 @@ Bootstrap
 </tr>
 </table>
 
-<br>
+---
 
-<!-- Backend -->
-
-<h2>⚙ Backend</h2>
+## ⚙ Backend
 
 <table>
 <tr>
@@ -98,17 +95,15 @@ Node.js
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/><br>
-Express.js
+Express
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<!-- Databases -->
-
-<h2>🗄 Databases</h2>
+## 🗄 Databases
 
 <table>
 <tr>
@@ -131,11 +126,9 @@ PostgreSQL
 </tr>
 </table>
 
-<br>
+---
 
-<!-- DevOps -->
-
-<h2>☁ DevOps & Cloud Tools</h2>
+# ☁ DevOps & Cloud Tools
 
 <table>
 <tr>
@@ -178,11 +171,9 @@ NGINX
 </tr>
 </table>
 
-<br>
+---
 
-<!-- Monitoring -->
-
-<h2>📊 Monitoring & Observability</h2>
+# 📊 Monitoring & Observability
 
 <table>
 <tr>
@@ -199,6 +190,48 @@ Grafana
 
 </tr>
 </table>
+
+---
+# 🚀 Featured Projects
+
+### 🤖 Agentic DevOps Monitoring System
+AI-powered system that analyzes container logs and detects system issues automatically.
+
+🔗 Repository  
+https://github.com/Prakunj01/minorproject02-agentic-devops
+
+Tech Used:
+- Python
+- AWS Bedrock
+- Docker
+- Prometheus
+- Grafana
+
+---
+
+### 🎨 UmaDesign Website
+
+A modern responsive website project.
+
+🔗 Repository  
+https://github.com/Prakunj01/umadesign
+
+Tech Used:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### ☁ ArTikin Deployment (Production)
+
+Currently managing **ArTikin application deployment on AWS cloud infrastructure**.
+
+Responsibilities:
+- Application deployment on AWS EC2
+- Container monitoring
+- Infrastructure setup
+- DevOps automation
 
 ---
 
